@@ -9524,7 +9524,7 @@ http://media.7starcloud.com:1935/harimedia/vinayagamusic/chunklist_w1173294218.m
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> FMX
+// menampilkan playlist >>> FMX
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="FMX",Indosiar
@@ -9955,7 +9955,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> INDIHOME
+// menampilkan playlist >>> INDIHOME
 //========================================================================
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
@@ -10073,7 +10073,7 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> VISION~PLUS MPD
+// menampilkan playlist >>> VISION~PLUS MPD
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCCZ1B6/soccer.png" group-title="VISION+ MPD", SOCCER CHANNEL
@@ -10617,7 +10617,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/Shangh
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> TRANSVISION
+// menampilkan playlist >>> TRANSVISION
 //========================================================================
 
 #EXTINF:-1 group-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg", group-title="TRANSVISION",TVRI
@@ -11522,7 +11522,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> MPD~INDIHOME
+// menampilkan playlist >>> MPD~INDIHOME
 //========================================================================
 
 #EXTINF:-1 group-title="MPD~INDIHOME" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
@@ -11779,7 +11779,7 @@ https://cdn13jtedge.indihometv.com/dass/133/net/manifest_wuseetv.mpd?
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> DENS.TV
+// menampilkan playlist >>> DENS.TV
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS.TV",INDOSIAR_
@@ -12049,7 +12049,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> HBO GROUP
+// menampilkan playlist >>> HBO GROUP
 //========================================================================
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="HBO GROUP",[ID] HBO
@@ -12067,7 +12067,7 @@ http://iptv12k.com:35461/654321/123456/722
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> ZAPITV
+// menampilkan playlist >>> ZAPITV
 //========================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/zJdyCpD/amc.png" group-title="ZAPITV 🇺🇸 🇪🇸", AMC 
@@ -12166,7 +12166,7 @@ https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.m
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> IPTV12K
+// menampilkan playlist >>> IPTV12K
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="INDONESIA TV",[ID] RCTI
@@ -12258,7 +12258,7 @@ http://iptv12k.com:35461/654321/123456/2052
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> AKTV
+// menampilkan playlist >>> AKTV
 //========================================================================
 
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
@@ -12382,7 +12382,7 @@ http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> XCIPTV
+// menampilkan playlist >>> XCIPTV
 //========================================================================
 
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + FHD
@@ -12470,7 +12470,7 @@ http://xciptv.8888play.one:80/228463308/r576049x/18778
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> IPTV
+// menampilkan playlist >>> IPTV
 //========================================================================
 
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://iili.io/JmoPytR.png" group-title="KOREA",KBS 1TV
@@ -12517,7 +12517,7 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Moveonjoy
+// menampilkan playlist >>> Moveonjoy
 //========================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA Moveonjoy",CBS 38 Boston
@@ -12699,7 +12699,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> THAI
+// menampilkan playlist >>> THAI
 //========================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="Thai Digital",NBT2HD
@@ -12770,7 +12770,7 @@ https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Dunia Movie
+// menampilkan playlist >>> Dunia Movie
 //========================================================================
 
 
@@ -12850,7 +12850,7 @@ https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> VISION~PLUS
+// menampilkan playlist >>> VISION~PLUS
 //========================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION HD" tvg-logo="http://go4.pw/INDONESIA/cinemachi_action.png" group-title="VISION+",CINEMACHI ACTION HD
@@ -13094,7 +13094,7 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/1089132
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> JAPAN STATION
+// menampilkan playlist >>> JAPAN STATION
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="JAPAN", Star°Channel 2
@@ -13174,7 +13174,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> PLUTO TV USA
+// menampilkan playlist >>> PLUTO TV USA
 //========================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Spotlight" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="PLUTO TV USA",Pluto TV Spotlight
@@ -14012,7 +14012,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live A
+// menampilkan playlist >>> Daddy Live A
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live A",ABC USA
@@ -14181,7 +14181,7 @@ https://ddy6new.koskoros.ru/ddy6/premium269/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live B
+// menampilkan playlist >>> Daddy Live B
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live B",beIN Sports MENA English 1
@@ -14474,7 +14474,7 @@ https://windnew.koskoros.ru/wind/premium275/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live C
+// menampilkan playlist >>> Daddy Live C
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live C",Cuatro Spain
@@ -14775,7 +14775,7 @@ https://ddy6new.koskoros.ru/ddy6/premium281/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live D
+// menampilkan playlist >>> Daddy Live D
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live D",DAZN 1 Bar DE
@@ -14932,7 +14932,7 @@ https://dokko1new.koskoros.ru/dokko1/premium348/mono.m3u8|referer=https://pkpaki
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live E
+// menampilkan playlist >>> Daddy Live E
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live E",ESPN USA
@@ -15089,7 +15089,7 @@ https://ddy6new.koskoros.ru/ddy6/premium363/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live F
+// menampilkan playlist >>> Daddy Live F
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live F",Fox Sports 1 USA
@@ -15222,7 +15222,7 @@ https://nfsnew.koskoros.ru/nfs/premium279/mono.m3u8|referer=https://pkpakiplay.x
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live G
+// menampilkan playlist >>> Daddy Live G
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live G",GOL PLAY Spain
@@ -15271,7 +15271,7 @@ https://dokko1new.koskoros.ru/dokko1/premium836/mono.m3u8|referer=https://pkpaki
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live H
+// menampilkan playlist >>> Daddy Live H
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live H",The Hallmark Channel
@@ -15336,7 +15336,7 @@ https://ddy6new.koskoros.ru/ddy6/premium740/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live I
+// menampilkan playlist >>> Daddy Live I
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live I",ITV 1 UK
@@ -15373,12 +15373,12 @@ https://nfsnew.koskoros.ru/nfs/premium656/mono.m3u8|referer=https://pkpakiplay.x
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live J
+// menampilkan playlist >>> Daddy Live J
 //========================================================================
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live K
+// menampilkan playlist >>> Daddy Live K
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live K",Kanal 4 Denmark
@@ -15395,7 +15395,7 @@ https://ddy6new.koskoros.ru/ddy6/premium731/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live L
+// menampilkan playlist >>> Daddy Live L
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live L",LaLigaTV UK
@@ -15444,7 +15444,7 @@ https://zekonew.koskoros.ru/zeko/premium278/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live M
+// menampilkan playlist >>> Daddy Live M
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live M",Match Football 1 Russia
@@ -15609,7 +15609,7 @@ https://ddy6new.koskoros.ru/ddy6/premium749/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live N
+// menampilkan playlist >>> Daddy Live N
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live N",NHL Network USA
@@ -15762,7 +15762,7 @@ https://ddy6new.koskoros.ru/ddy6/premium771/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live O
+// menampilkan playlist >>> Daddy Live O
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live O",OnTime Sports
@@ -15807,7 +15807,7 @@ https://windnew.koskoros.ru/wind/premium332/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live P
+// menampilkan playlist >>> Daddy Live P
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live P",Premier Sports Ireland 1
@@ -15899,12 +15899,12 @@ https://ddy6new.koskoros.ru/ddy6/premium653/mono.m3u8|referer=https://pkpakiplay
 https://windnew.koskoros.ru/wind/premium43/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live Q
+// menampilkan playlist >>> Daddy Live Q
 //========================================================================
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live R
+// menampilkan playlist >>> Daddy Live R
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live R",RTE 1
@@ -16005,7 +16005,7 @@ https://dokko1new.koskoros.ru/dokko1/premium920/mono.m3u8|referer=https://pkpaki
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live S
+// menampilkan playlist >>> Daddy Live S
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live S",Sky Sports Football UK
@@ -16666,7 +16666,7 @@ https://nfsnew.koskoros.ru/nfs/premium922/mono.m3u8|referer=https://pkpakiplay.x
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live T
+// menampilkan playlist >>> Daddy Live T
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live T",TNT Sports 1 UK
@@ -16947,7 +16947,7 @@ https://top2new.koskoros.ru/top2/premium714/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live U
+// menampilkan playlist >>> Daddy Live U
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live U",USA Network
@@ -16968,7 +16968,7 @@ https://nfsnew.koskoros.ru/nfs/premium133/mono.m3u8|referer=https://pkpakiplay.x
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live V
+// menampilkan playlist >>> Daddy Live V
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live V",Viaplay Sports 1 UK
@@ -17021,7 +17021,7 @@ https://dokko1new.koskoros.ru/dokko1/premium659/mono.m3u8|referer=https://pkpaki
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live W
+// menampilkan playlist >>> Daddy Live W
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live W",Willow Cricket
@@ -17050,7 +17050,7 @@ https://ddy6new.koskoros.ru/ddy6/premium734/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live Y
+// menampilkan playlist >>> Daddy Live Y
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live Y",YES Network USA
@@ -17083,7 +17083,7 @@ https://ddy6new.koskoros.ru/ddy6/premium296/mono.m3u8|referer=https://pkpakiplay
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Daddy Live Z
+// menampilkan playlist >>> Daddy Live Z
 //========================================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Daddy Live Z",Ziggo Sport Docu NL
