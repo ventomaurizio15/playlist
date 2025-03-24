@@ -115,17 +115,29 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rywrbJ7/sportstar.png" group-title="Vision Sports", SPORTSTAR 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rywrbJ7/sportstar.png" group-title="Vision Sports", SPORTSTARS 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rywrbJ7/sportstar.png" group-title="Vision Sports", SPORTSTAR 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rywrbJ7/sportstar.png" group-title="Vision Sports", SPORTSTARS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rywrbJ7/sportstar.png" group-title="Vision Sports", SPORTSTARS 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rywrbJ7/sportstar.png" group-title="Vision Sports", SPORTSTARS 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports4-HD/sa_dash_vmx/MNCSports4-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZY2cbSj/SPOTV.png" group-title="Vision Sports", SPOTV 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
