@@ -147,7 +147,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=1014
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=1014&type=drm
-#EXTINF:-1 group-title="Sports Mixs" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-m.png",V+ LIVE 5 🔵
+#EXTINF:-1 group-title="Sports Mix" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-m.png",V+ LIVE 5 🔵
 https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
